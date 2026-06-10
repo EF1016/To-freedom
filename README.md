@@ -23,3 +23,8 @@ git clone https://github.com/EF1016/To-freedom.git
 "bash
 cd To-freedom
 "
+
+
+## 开源协议
+
+本项目基于[MIT Lisense](LICENSE)协议开源。
